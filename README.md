@@ -2,32 +2,6 @@
 
 Use multi-agent architectures with Azure OpenAI to automate text generation through agent collaboration and fully capture LLM capabilities within your application.
 
-## Multi-Agent Frameworks
-
-What is an agent?
-- An AI assistant designed to interact with the real world
-- Driven by an LLM
-- Has access to a set of tools (knowledge base, database, etc.)
-- Has a specific system message to define its behavior
-
-Why to use a multi-agent architecture?
-- Customizable and conversable agents within a group chat
-- Agents collectively performing tasks autonomously
-- Easy integration of human feedback
-- Next-gen LLM applications with minimal effort
-- Simple orchestration and optimization of complex LLM architectures
-
-Open-source frameworks:
-- Autogen (developed by Microsoft)
-https://microsoft.github.io/autogen/
-https://github.com/microsoft/autogen/tree/main
-- LangGraph
-https://python.langchain.com/docs/langgraph
-- Semantic Kernel (developed by Microsoft)
-https://github.com/microsoft/semantic-kernel
-https://techcommunity.microsoft.com/t5/educator-developer-blog/microsoft-semantic-kernel-and-autogen-open-source-frameworks-for/ba-p/4051305
-
-
 
 
 ## Content Generation Roundtable
@@ -41,6 +15,33 @@ There are **7 GPT agents** discussing together to create the perfect content for
 - **Stylist** gives feedback about curiosity of the article, use of writing tools (questions, action words etc.) and maintaining engagement
 - **Editor** gives feedback about the flow and tonality of the article
 ![image](https://github.com/duihub/multi-agent-text-generation/assets/117650819/5c71bb51-6239-4548-9107-f57a4b234bc0)
+
+
+
+## Multi-Agent Frameworks
+
+**What is an agent?
+**- An AI assistant designed to interact with the real world
+- Driven by an LLM
+- Has access to a set of tools (knowledge base, database, etc.)
+- Has a specific system message to define its behavior
+
+**Why to use a multi-agent architecture?
+**- Customizable and conversable agents within a group chat
+- Agents collectively performing tasks autonomously
+- Easy integration of human feedback
+- Next-gen LLM applications with minimal effort
+- Simple orchestration and optimization of complex LLM architectures
+
+**Open-source frameworks:
+**- Autogen (developed by Microsoft)
+https://microsoft.github.io/autogen/
+https://github.com/microsoft/autogen/tree/main
+- LangGraph
+https://python.langchain.com/docs/langgraph
+- Semantic Kernel (developed by Microsoft)
+https://github.com/microsoft/semantic-kernel
+https://techcommunity.microsoft.com/t5/educator-developer-blog/microsoft-semantic-kernel-and-autogen-open-source-frameworks-for/ba-p/4051305
 
 
 
