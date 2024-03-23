@@ -8,6 +8,10 @@ Content Generation Roundtable
 
 Other Autogen examples:
 
+https://github.com/microsoft/autogen/blob/main/notebook/agentchat_auto_feedback_from_code_execution.ipynb
+
 <img width="844" alt="image" src="https://github.com/duihub/multi-agent-text-generation/assets/117650819/8eb1298a-ab41-4f96-88e0-76dc6feca090">
+
+https://github.com/microsoft/autogen/blob/main/notebook/agentchat_two_users.ipynb
 
 <img width="1129" alt="image" src="https://github.com/duihub/multi-agent-text-generation/assets/117650819/f914bd34-2181-4133-aaee-62840132d12e">
