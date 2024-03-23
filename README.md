@@ -9,7 +9,7 @@ Use multi-agent architectures with Azure OpenAI to automate text generation thro
 There are **7 GPT agents** discussing together to create the perfect content for your specific newspaper brand. Here are the roles of each agent:
 - **Group chat manager** controls the conversation and gives turns to other agents to speak
 - **User proxy** imitates the human user and decides when the article is complete (based on feedback from other experts)
-- **Outline generator **creates a suitable outline for the writer to work upon
+- **Outline generator** creates a suitable outline for the writer to work upon
 - **Writer** is responsible for writing the first draft and creating new versions of the article based on feedback from others
 - **Newspaper style checker** compares writer's article to other published articles from your newspaper brand and gives feedback about suitability
 - **Stylist** gives feedback about curiosity of the article, use of writing tools (questions, action words etc.) and maintaining engagement
