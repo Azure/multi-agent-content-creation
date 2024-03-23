@@ -4,6 +4,12 @@ Use multi-agent architectures with Azure OpenAI to automate text generation thro
 
 ## Multi-Agent Frameworks
 
+What is an agent?
+- An AI assistant designed to interact with the real world
+- Driven by an LLM
+- Has access to a set of tools (knowledge base, database, etc.)
+- Has a specific system message to define its behavior
+
 Why to use a multi-agent architecture?
 - Customizable and conversable agents within a group chat
 - Agents collectively performing tasks autonomously
