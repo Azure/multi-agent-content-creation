@@ -3,6 +3,15 @@
 Use multi-agent architectures with Azure OpenAI to automate text generation through agent collaboration and fully capture LLM capabilities within your application.
 
 ## Content Generation Roundtable
+
+There are 7 GPT agents discussing together to create the perfect content for your specific newspaper brand. Here are the roles of each agent:
+- Group chat manager controls the conversation and gives turns to other agents to speak
+- User proxy imitates the human user and decides when the article is complete (based on feedback from other experts)
+- Outline generator creates a suitable outline for the writer to work upon
+- Writer is responsible for writing the first draft and creating new versions of the article based on feedback from others
+- Newspaper style checker compares writer's article to other published articles from your newspaper brand and gives feedback about suitability
+- Stylist gives feedback about curiosity of the article, use of writing tools (questions, action words etc.) and maintaining engagement
+- Editor gives feedback about the flow and tonality of the article
 ![image](https://github.com/duihub/multi-agent-text-generation/assets/117650819/5c71bb51-6239-4548-9107-f57a4b234bc0)
 
 
