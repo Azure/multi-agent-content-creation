@@ -15,26 +15,26 @@ There are **7 GPT agents** discussing together to create the perfect content for
 - **Stylist** gives feedback about curiosity of the article, use of writing tools (questions, action words etc.) and maintaining engagement
 - **Editor** gives feedback about the flow and tonality of the article
 ![image](https://github.com/duihub/multi-agent-text-generation/assets/117650819/5c71bb51-6239-4548-9107-f57a4b234bc0)
-
+Autogen is used as the LLM agent framework in this repository.
 
 
 ## Multi-Agent Frameworks
 
-**What is an agent?
-**- An AI assistant designed to interact with the real world
+**What is an agent?**
+- An AI assistant designed to interact with the real world
 - Driven by an LLM
 - Has access to a set of tools (knowledge base, database, etc.)
 - Has a specific system message to define its behavior
 
-**Why to use a multi-agent architecture?
-**- Customizable and conversable agents within a group chat
+**Why to use a multi-agent architecture?**
+- Customizable and conversable agents within a group chat
 - Agents collectively performing tasks autonomously
 - Easy integration of human feedback
 - Next-gen LLM applications with minimal effort
 - Simple orchestration and optimization of complex LLM architectures
 
-**Open-source frameworks:
-**- Autogen (developed by Microsoft)
+**Open-source frameworks:**
+- Autogen (developed by Microsoft)
 https://microsoft.github.io/autogen/
 https://github.com/microsoft/autogen/tree/main
 - LangGraph
