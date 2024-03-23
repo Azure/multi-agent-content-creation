@@ -2,6 +2,28 @@
 
 Use multi-agent architectures with Azure OpenAI to automate text generation through agent collaboration and fully capture LLM capabilities within your application.
 
+## Multi-Agent Frameworks
+
+Why to use a multi-agent architecture?
+- Customizable and conversable agents within a group chat
+- Agents collectively performing tasks autonomously
+- Easy integration of human feedback
+- Next-gen LLM applications with minimal effort
+- Simple orchestration and optimization of complex LLM architectures
+
+Open-source frameworks:
+- Autogen (developed by Microsoft)
+https://microsoft.github.io/autogen/
+https://github.com/microsoft/autogen/tree/main
+- LangGraph
+https://python.langchain.com/docs/langgraph
+- Semantic Kernel (developed by Microsoft)
+https://github.com/microsoft/semantic-kernel
+https://techcommunity.microsoft.com/t5/educator-developer-blog/microsoft-semantic-kernel-and-autogen-open-source-frameworks-for/ba-p/4051305
+
+
+
+
 ## Content Generation Roundtable
 
 There are **7 GPT agents** discussing together to create the perfect content for your specific newspaper brand. Here are the roles of each agent:
