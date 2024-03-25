@@ -1,6 +1,6 @@
 # Multi-Agent Content Generation: Let GPT agents collaborate to create perfect content for you
 
-Use multi-agent architectures with Azure OpenAI to automate text generation through agent collaboration and fully capture LLM capabilities within your application.
+Use multi-agent architectures with Azure OpenAI to automate text generation through agent collaboration and fully capture LLM capabilities within your application. This repo can be used to create content for newspaper articles, social media posts, press releases, technical documentation, etc.
 
 
 
